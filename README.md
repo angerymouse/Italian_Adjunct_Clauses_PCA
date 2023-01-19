@@ -29,4 +29,4 @@ Martina Rizzello. _Italian_ _Adjunct_ _Clauses_ _PCA_. Université de Genève, 2
 
  [![DOI](https://zenodo.org/badge/589588944.svg)](https://zenodo.org/badge/latestdoi/589588944)
  
- 
+ <a rel="license" href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" width="88" height="31"></a>
