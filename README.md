@@ -25,6 +25,7 @@ Martina Rizzello. _Italian_ _Adjunct_ _Clauses_ _PCA_. Université de Genève, 2
   howpublished = {\url{https://zenodo.org/badge/latestdoi/589588944}},
   year         = {2023},
 }
+```
 
  [![DOI](https://zenodo.org/badge/589588944.svg)](https://zenodo.org/badge/latestdoi/589588944)
  
