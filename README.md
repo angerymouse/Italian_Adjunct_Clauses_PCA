@@ -22,7 +22,7 @@ Martina Rizzello. _Italian_ _Adjunct_ _Clauses_ _PCA_. Université de Genève, 2
 @misc{Rizzello_PCA_2023,
   title        = {Italian Adjunct Clauses PCA},
   author       = {Rizzello, Martina},
-  howpublished = {\url{https://zenodo.org/badge/latestdoi/589588944}},
+  howpublished = {\url{https://doi.org/10.5281/zenodo.7541464}},
   year         = {2023},
 }
 ```
